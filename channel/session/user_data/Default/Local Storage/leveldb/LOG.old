@@ -1,0 +1,6 @@
+2026/05/05-23:56:46.610 998 Reusing MANIFEST C:\Users\Aniket\Desktop\whatsapp-mcp\channel\session\user_data\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/05-23:56:46.622 998 Recovering log #7
+2026/05/05-23:56:46.630 998 Reusing old log C:\Users\Aniket\Desktop\whatsapp-mcp\channel\session\user_data\Default\Local Storage\leveldb/000007.log 
+2026/05/05-23:56:57.390 3904 Level-0 table #11: started
+2026/05/05-23:56:57.397 3904 Level-0 table #11: 14885 bytes OK
+2026/05/05-23:56:57.406 3904 Delete type=0 #7

@@ -1,0 +1,30 @@
+2026/05/06-22:51:46.848 3e80 Reusing MANIFEST C:\Users\Aniket\Desktop\whatsapp-mcp\channel\session\user_data\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/06-22:51:46.870 3e80 Recovering log #10
+2026/05/06-22:51:46.879 3e80 Reusing old log C:\Users\Aniket\Desktop\whatsapp-mcp\channel\session\user_data\Default\Local Storage\leveldb/000010.log 
+2026/05/07-22:07:15.274 31c4 Level-0 table #14: started
+2026/05/07-22:07:15.284 31c4 Level-0 table #14: 15201 bytes OK
+2026/05/07-22:07:15.288 31c4 Delete type=0 #10
+2026/05/11-08:01:10.869 3e80 Level-0 table #16: started
+2026/05/11-08:01:10.885 3e80 Level-0 table #16: 14224 bytes OK
+2026/05/11-08:01:10.896 3e80 Delete type=0 #13
+2026/05/11-14:23:19.121 31c4 Level-0 table #18: started
+2026/05/11-14:23:19.130 31c4 Level-0 table #18: 13659 bytes OK
+2026/05/11-14:23:19.134 31c4 Delete type=0 #15
+2026/05/11-14:23:19.135 31c4 Compacting 4@0 + 1@1 files
+2026/05/11-14:23:19.144 31c4 Generated table #19@0: 114 keys, 6640 bytes
+2026/05/11-14:23:19.144 31c4 Compacted 4@0 + 1@1 files => 6640 bytes
+2026/05/11-14:23:19.145 31c4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/11-14:23:19.146 31c4 Delete type=2 #8
+2026/05/11-14:23:19.146 31c4 Delete type=2 #11
+2026/05/11-14:23:19.146 31c4 Delete type=2 #14
+2026/05/11-14:23:19.147 31c4 Delete type=2 #16
+2026/05/11-14:23:19.147 31c4 Delete type=2 #18
+2026/05/11-21:23:41.373 31c4 Level-0 table #21: started
+2026/05/11-21:23:41.381 31c4 Level-0 table #21: 12837 bytes OK
+2026/05/11-21:23:41.384 31c4 Delete type=0 #17
+2026/05/12-00:23:49.578 3e80 Level-0 table #23: started
+2026/05/12-00:23:49.585 3e80 Level-0 table #23: 13568 bytes OK
+2026/05/12-00:23:49.588 3e80 Delete type=0 #20
+2026/05/12-22:21:38.125 31c4 Level-0 table #25: started
+2026/05/12-22:21:38.136 31c4 Level-0 table #25: 13157 bytes OK
+2026/05/12-22:21:38.141 31c4 Delete type=0 #22
